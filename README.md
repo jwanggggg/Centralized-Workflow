@@ -3,3 +3,5 @@ This article concerns the debate regarding *tabs vs. spaces*.
 While I personally use ***tabs***, I was surprised to learn those who use **spaces** receive a larger salary than those who use **tabs**.  It was shown that across several countries that the majority of those who use **spaces** actually earn more, regardless of external factors such as firm, experience, or education.  
 
 However, I will forever use *tabs*.
+
+*Tabs?* The only correct way to indent is *spaces*. -Jonathan Wang
